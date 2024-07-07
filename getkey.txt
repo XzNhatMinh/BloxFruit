@@ -1,4 +1,4 @@
-local suskey = "testing"
+local suskey = "bmxqeo"
 
 
 local GUI = Instance.new("ScreenGui")
@@ -68,7 +68,7 @@ KeyBox.Position = UDim2.new(0.216714069, 0, 0.0933334902, 0)
 KeyBox.Size = UDim2.new(0.552679658, 0, 0.298396379, 0)
 KeyBox.Font = Enum.Font.SourceSansSemibold
 KeyBox.PlaceholderColor3 = Color3.fromRGB(80, 80, 80)
-KeyBox.PlaceholderText = "bmxqeo"
+KeyBox.PlaceholderText = "Key"
 KeyBox.Text = ""
 KeyBox.TextColor3 = Color3.fromRGB(255, 255, 255)
 KeyBox.TextScaled = true
