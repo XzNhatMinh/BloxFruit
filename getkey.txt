@@ -101,7 +101,7 @@ VerifyButton.MouseButton1Down:connect(function()
         wait(7)
 
         GUI.Parent = nil
- loadstring(game:HttpGet("https://raw.githubusercontent.com/XzNhatMinh/Block/main/M-Hutao.txt?token=GHSAT0AAAAAACURZQ2DALMNSAYYUJKMFSCEZULABAA"))()
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/Minhdaynebro1/z/main/M-Hutao.txt"))()
     end
 end)
 
